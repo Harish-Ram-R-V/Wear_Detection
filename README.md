@@ -1,4 +1,3 @@
-# Wear_Detection
 # Smart Multi-Sensor Tyre Wear Monitoring System (IoT Enabled)
 ### Real-Time Embedded System with Blynk IoT Integration
 **Batch 59 SPD Project | Jan-May 2026**
