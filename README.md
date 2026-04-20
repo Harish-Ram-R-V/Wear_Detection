@@ -49,6 +49,6 @@ The system utilizes three redundant approaches for maximum reliability:
 ---
 
 **Grateful to my team:** Roshan, Vijay Surya, Pranav Parasuram, Tejhaswin A, Shri Rishabh  
-**Mentor:** Dr. Karthick S  
+**Mentor:** Dr. Karthik C
 
 *Looking forward to refining and taking this further!*
